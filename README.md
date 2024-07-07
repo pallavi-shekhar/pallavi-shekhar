@@ -1,6 +1,6 @@
 **ABOUT ME**
 
-Hi, I’m Pallavi, a Backend Engineer with 5 years of experience working on backend applications with scalable architectures with frameworks Node.js, .NET, and .NET Core. I like to design and build scalable backend systems. I am highly motivated to continue learning and improving myself.
+Hi, I’m Pallavi, Co-Founder @ Outcome School • Experienced in creating robust and scalable backend systems. I love working on performance optimization and security. I am passionate about knowledge sharing, mentoring developers, and contributing to technical blogs. Here to make tech education outcome-focused.
 
 **OPEN-SOURCE PROJECTS**
 
@@ -14,9 +14,3 @@ Hi, I’m Pallavi, a Backend Engineer with 5 years of experience working on back
 * **Amazon Ecommerce Clone Backend**
   * [Project Link](https://github.com/pallavi-shekhar/amazon-ecommerce-clone-backend)
   * Implemented JSON Web Token (JWT) Authentication using AccessToken and RefreshToken
-
-**PROFESSIONAL SKILLS**
-* Languages: JavaScript, TypeScript, C#, C 
-* Frameworks: Node.js, .NET Framework, .NET Core
-* Databases: MongoDB, MySQL, MSSQL 
-* Experience with AWS, Azure, Docker
